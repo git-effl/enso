@@ -10,4 +10,4 @@ The source is for advanced users only. Users should download the [prebuilt packa
 
 Again, even if you just change the logo, there's a good chance you will perma-brick your Vita. You have been warned.
 
-[ensō](https://www.flickr.com/photos/30151597@N03/2823325892/) is created by [ethan](https://www.flickr.com/photos/30151597@N03),it is licnesed under [CC-BY-SA 2.0](https://github.com/git-effl/enso/edit/master/ENSO.TXT)
+[ensō](https://www.flickr.com/photos/30151597@N03/2823325892/) is created by [ethan](https://www.flickr.com/photos/30151597@N03),it is licensed under [CC-BY-SA 2.0](https://github.com/git-effl/enso/edit/master/ENSO.TXT)
