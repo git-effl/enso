@@ -14,4 +14,4 @@ Again, even if you just change the logo, there's a good chance you will perma-br
   <img src="https://github.com/git-effl/enso/blob/master/installer/res/icon.png" width=400>
 </p>
 
-The logo is modified from [ensō](https://www.flickr.com/photos/30151597@N03/2823325892/),the original ensō logo is created by [ethan](https://www.flickr.com/photos/30151597@N03),it is licensed under [CC-BY-SA 2.0](https://github.com/git-effl/enso/edit/master/ENSO.TXT)
+The logo is a white version of [ensō](https://www.flickr.com/photos/30151597@N03/2823325892/),the original ensō logo is created by [ethan](https://www.flickr.com/photos/30151597@N03),it is licensed under [CC-BY-SA 2.0](https://github.com/git-effl/enso/edit/master/ENSO.TXT)
