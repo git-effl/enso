@@ -10,4 +10,4 @@ Again, even if you just add a custom boot logo, there's a good chance you will p
 
 Image licensing:
 
-Logo is an inverted color version of [ensō](https://www.flickr.com/photos/30151597@N03/2823325892), made by [ethan](https://www.flickr.com/photos/30151597@N03),licensed under [CC-BY-SA 2.0](ENSO.TXT
+Logo is an inverted color version of [ensō](https://www.flickr.com/photos/30151597@N03/2823325892), made by [ethan](https://www.flickr.com/photos/30151597@N03),licensed under [CC-BY-SA 2.0](ENSO.TXT)
